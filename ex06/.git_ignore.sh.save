@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# .gitignore için örnek içerik ekleyin
+
+echo "*.log" >> .gitignore
+echo "*.tmp" >> .gitignore
+echo "node_modules/" >> .gitignore
+zsh:1: erişim engellendi: ./.git_ignore.sh
